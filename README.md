@@ -1,7 +1,7 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&size=35&pause=1000&color=F70000&width=435&lines=Welcome!)](https://git.io/typing-svg)</h1>
-
 <h1 align="center">Hi 👋, I'm Rúben Almeida</h1>
 <h3 align="center">Computer Science Undergraduate at Lusiada University, Lisbon</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&size=35&pause=1000&color=F70000&width=435&lines=Welcome!)](https://git.io/typing-svg)
 
 - 🌱 Currently learning **a few languages**
 
